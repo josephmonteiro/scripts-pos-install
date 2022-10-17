@@ -1,6 +1,6 @@
 # Scripts pada pós instalação para distribuições Linux 
 
-- Historico de atualizações! <br>
+# Historico de atualizações! <br>
 
     v1.0
 
