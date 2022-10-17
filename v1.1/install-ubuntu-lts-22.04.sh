@@ -16,11 +16,11 @@ echo "Instalando dependências!"
     sudo apt install libgl1-mesa-glx:i386 libgl1-mesa-dri:i386
     sudo apt install mesa-vulkan-drivers vulkan-tools libassimp5
 
-echo Baixando e importando chaves!
+echo "Baixando e importando chaves!"
     sudo wget -nc -O /usr/share/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
     sudo apt-key add winehq.key
 
-echo Adicionando repositório!
+echo "Adicionando repositório!"
     sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/jammy/winehq-jammy.sources
 
 echo "Adicionando o Lutris."
