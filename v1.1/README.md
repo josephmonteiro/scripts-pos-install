@@ -1,4 +1,4 @@
-# shellMessaewine
+# Script de instalação do Mesa driver, vulkan e wine
 
 [![GitHub license](https://img.shields.io/github/license/lucasdias87/shellMessaewine?style=for-the-badge)](https://github.com/lucasdias87/shellMessaewine/blob/master/LICENSE)
 ## Messa driver mais o wine script para jogar na distribuição Linux
