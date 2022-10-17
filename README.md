@@ -1,4 +1,4 @@
-# Scripts pada pós instalação para distribuições Linux 
+# Scripts para pós instalação para distribuições Linux 
 
 Historico de atualizações! <br>
 
